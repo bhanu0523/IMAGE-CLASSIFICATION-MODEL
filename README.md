@@ -1,9 +1,9 @@
 # IMAGE-CLASSIFICATION-MODEL
 *COMPANY* : CODTECH IT SOLUTIONS 
-*NAME*: GUNNA PAVAN 
-*INTERN ID*: CT04DN1757 
+*NAME*: DAMULURU BHANU THULASI 
+*INTERN ID*: CT06DK513 
 *DOMAIN* : MACHINE LEARNING 
-*DURATION* : 4 WEEKS 
+*DURATION* : 6 WEEKS 
 *MENTOR* : NEELA SANTOSH
 *Objective*
 To classify images into predefined categories using a Convolutional Neural Network (CNN) built with TensorFlow.
